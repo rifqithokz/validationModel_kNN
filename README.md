@@ -14,6 +14,6 @@ klasifikasi     : k-NN (Nearest Neighbours)
 
 ================================================<br>
 
-Rifqi amalya fatekha<br>
+Rifqi amalya fatekha
 
 06/10/2019
