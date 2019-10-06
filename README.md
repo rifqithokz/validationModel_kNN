@@ -10,12 +10,18 @@ tugas AI tentang validation model
 Data supervised : iris data<br>
 klasifikasi     : k-NN (Nearest Neighbours)
 
+<br><br>
+output aplikasi berupa file csv :
+- Data training
+- Data tes
+- Hasil eksperimen
 
+<br><br>
 
 ================================================<br>
 Rifqi amalya fatekha<br>
 06/10/2019
-<br>
+<br><br><br>
 build with :<br>
 MS. Visual Studio 2019 Community<br>
 C++ programming language
