@@ -7,7 +7,7 @@ tugas AI tentang validation model
 - Leave-One-Out Cross Validation
 - Bootstrap
 
-Data supervised : iris data
+Data supervised : iris data<br>
 klasifikasi     : k-NN (Nearest Neighbours)
 
 
@@ -15,3 +15,7 @@ klasifikasi     : k-NN (Nearest Neighbours)
 ================================================<br>
 Rifqi amalya fatekha<br>
 06/10/2019
+<br>
+build with :<br>
+MS. Visual Studio 2019 Community<br>
+C++ programming language
